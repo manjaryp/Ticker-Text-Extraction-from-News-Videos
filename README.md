@@ -9,7 +9,7 @@ Innovations in technologies like improved internet data transfer, advanced digit
 4. Extraction individual letters (letterextract.m)
 
 ## Related works
-[1] Manjary P Gangan, Anoop K, and V. L. Lajish. "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017. 
-[2] Vivek P, Anoop K, and V. L. Lajish. "A Keyword spotting approach for content based indexing and retrieval of malayalam news videos.", National Symposium on Acoustics (NSA) Goa, 2015
-[3] Anoop K, and V. L. Lajish. "Morphology based text detection and extraction from Malayalam news videos." In National Conference on Indian Language Computing. 2014.
+[1] Manjary P Gangan, Anoop K, and V. L. Lajish. "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017.</br> 
+[2] Vivek P, Anoop K, and V. L. Lajish. "A Keyword spotting approach for content based indexing and retrieval of malayalam news videos.", National Symposium on Acoustics (NSA) Goa, 2015.</br> 
+[3] Anoop K, and V. L. Lajish. "Morphology based text detection and extraction from Malayalam news videos." In National Conference on Indian Language Computing. 2014.</br> 
 
