@@ -9,13 +9,13 @@ University of Calicut, India </br>
 
 ## Citation
 ```
-@misc{gangan2021distinguishing,
-      title={Distinguishing Natural and Computer-Generated Images using Multi-Colorspace fused EfficientNet}, 
-      author={Manjary P Gangan and Anoop K and Lajish V L},
-      year={2021},
-      eprint={2110.09428},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@incollection{anoop2016mathematical,
+  title={Mathematical Morphology and Region Clustering Based Text Information Extraction from Malayalam News Videos},
+  author={Anoop, K and Gangan, Manjary P and Lajish, VL},
+  booktitle={Advances in Signal Processing and Intelligent Recognition Systems},
+  pages={431--442},
+  year={2016},
+  publisher={Springer}
 }
 ```
 
