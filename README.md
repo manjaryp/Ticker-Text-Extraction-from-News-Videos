@@ -20,7 +20,7 @@ University of Calicut, India </br>
 ```
 
 ## Matlab codes
-1. Clustering of text regions in each video frame (clus.m)
+1. Clustering of text regions in each video frame ([clus.m](matlab-codes/clus.m))
 2. Comparison of video frames (frame_comparison.m)
 3. Normalised cross corelation of extracted ticker regions (ncc.m)
 4. Extraction individual letters (letterextract.m)
