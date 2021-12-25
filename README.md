@@ -23,7 +23,7 @@ University of Calicut, India </br>
 1. Clustering of text regions in each video frame ([clus.m](matlab-codes/clus.m))
 2. Comparison of video frames ([frame_comparison.m](matlab-codes/frame_comparison.m))
 3. Normalised cross corelation of extracted ticker regions ([ncc.m](matlab-codes/ncc.m))
-4. Extraction individual letters ([letterextract.m](matlab-codes/letterextract.m))
+4. Extraction of individual letters ([letterextract.m](matlab-codes/letterextract.m))
 
 ## Related works
 [1] Manjary P Gangan, Anoop K, and V. L. Lajish. "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017.</br> 
